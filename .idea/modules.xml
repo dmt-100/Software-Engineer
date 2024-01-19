@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/03 - Java Core 2/All Exercises. java-sprint3 - java-sprint-8/All Exercises. java-sprint3 - java-sprint-8.iml" filepath="$PROJECT_DIR$/03 - Java Core 2/All Exercises. java-sprint3 - java-sprint-8/All Exercises. java-sprint3 - java-sprint-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00 - Logic/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/00 - Logic/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Software-Engineer.iml" filepath="$PROJECT_DIR$/.idea/Software-Engineer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01 - Java Basics/first-project/first-project.iml" filepath="$PROJECT_DIR$/01 - Java Basics/first-project/first-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01 - Java Basics/java-sprint2-hw/java-sprint2-hw.iml" filepath="$PROJECT_DIR$/01 - Java Basics/java-sprint2-hw/java-sprint2-hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 - Java Core 1/java-sprint3-hw/java-sprint3-hw.iml" filepath="$PROJECT_DIR$/02 - Java Core 1/java-sprint3-hw/java-sprint3-hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 - Java Core 1/java-sprint4-hw/java-sprint4-hw.iml" filepath="$PROJECT_DIR$/02 - Java Core 1/java-sprint4-hw/java-sprint4-hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 - Java Core 1/java-sprint5-hw/java-sprint5-hw.iml" filepath="$PROJECT_DIR$/02 - Java Core 1/java-sprint5-hw/java-sprint5-hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 - Java Core 2/java-sprint6-hw/java-sprint6-hw.iml" filepath="$PROJECT_DIR$/03 - Java Core 2/java-sprint6-hw/java-sprint6-hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 - Java Core 2/java-sprint7-hw/java-sprint7-hw.iml" filepath="$PROJECT_DIR$/03 - Java Core 2/java-sprint7-hw/java-sprint7-hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - Spring Data JPA Hibernate Mock-test Microservices Docker/java-shareit/shareit.iml" filepath="$PROJECT_DIR$/05 - Spring Data JPA Hibernate Mock-test Microservices Docker/java-shareit/shareit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - Spring Data JPA Hibernate Mock-test Microservices Docker/java-shareit/gateway/shareit-gateway.iml" filepath="$PROJECT_DIR$/05 - Spring Data JPA Hibernate Mock-test Microservices Docker/java-shareit/gateway/shareit-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - Spring Data JPA Hibernate Mock-test Microservices Docker/java-shareit/server/shareit-server.iml" filepath="$PROJECT_DIR$/05 - Spring Data JPA Hibernate Mock-test Microservices Docker/java-shareit/server/shareit-server.iml" />
+    </modules>
+  </component>
+</project>

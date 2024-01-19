@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/01 - Java Basics/first-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/01 - Java Basics/java-sprint2-hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02 - Java Core 1/java-sprint3-hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02 - Java Core 1/java-sprint4-hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02 - Java Core 1/java-sprint5-hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03 - Java Core 2/All Exercises. java-sprint3 - java-sprint-8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03 - Java Core 2/java-sprint6-hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03 - Java Core 2/java-sprint7-hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03 - Java Core 2/kanban" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04 - Spring Boot REST SQL JDBC Git command work/java-filmorate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05 - Spring Data JPA Hibernate Mock-test Microservices Docker/java-shareit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05 - Spring Data JPA Hibernate Mock-test/java-shareit" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="java-filmorate" />
+        <module name="TicTacToe_MaxAI_v3" />
+        <module name="kanban" />
+        <module name="tictactoe2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="service-discovery-example.main" target="17" />
+      <module name="service-discovery-example.test" target="17" />
+      <module name="shareit" target="11" />
+      <module name="shareit-gateway" target="1.8" />
+      <module name="shareit-server" target="1.8" />
+      <module name="Snake" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="java-filmorate" options="-parameters" />
+      <module name="shareit" options="-parameters" />
+      <module name="shareit-gateway" options="-parameters" />
+      <module name="shareit-server" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/06 - Docker/service-discovery-example" />
+    <file type="web" url="file://$PROJECT_DIR$/service-discovery-example" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/03 - Java Core 2/kanban/pom.xml" />
+        <option value="$PROJECT_DIR$/04 - Spring Boot REST SQL JDBC Git command work/java-filmorate/pom.xml" />
+        <option value="$PROJECT_DIR$/00 - Logic/2d-games/TicTacToe_v3/pom.xml" />
+        <option value="$PROJECT_DIR$/00 - Logic/2d-games/tictactoe2/pom.xml" />
+        <option value="$PROJECT_DIR$/05 - Spring Data JPA Hibernate Mock-test Microservices Docker/java-shareit/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>
